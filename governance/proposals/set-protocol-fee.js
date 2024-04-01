@@ -66,7 +66,7 @@ To initiate this process, we suggest setting the fee percentage at 1%. However, 
 Prior to formalizing this proposal, we conducted extensive community engagement activities to gauge sentiment and gather feedback. This included utilizing Snapshot for temperature checking and initiating discussions on the Unlock forum to foster transparent dialogue and collaboration.
 Snapshot Proposal: https://snapshot.org/#/unlock-protocol.eth/proposal/0xfb31abbb3ff6c8ef60bc3db9cd47adab0158ce1f955709f75cc2022b075dac8b
 Forum Discussion: https://unlock.community/t/collect-fees-feature/484
-Details of Functionality: https://github.com/unlock-protocol/unlock/blob/master/governance/proposals/002-set-protocol-fee.js
+Details of Functionality: https://github.com/thehen/unlock/blob/fee-proposal/governance/proposals/set-protocol-fee.js
 
 ##Testing and Validation
 Before proceeding with the formal proposal submission on Tally, rigorous internal testing has been conducted to ensure the seamless operation and effectiveness of the proposed functionality. These tests have provided confidence in the viability and correctness of the proposed action.
